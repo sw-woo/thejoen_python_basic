@@ -1,0 +1,9 @@
+{
+	"MAX_SOCIAL_MEDIA_COLUMNS": 5,
+	"SOCIAL_MEDIA": {
+		"Email": "swpheus1@gmail.com",
+		"LinkedIn": "https://www.linkedin.com/",
+		"GitHub": "https://github.com/",
+		"Twitter": "https://twitter.com/"
+	}
+}

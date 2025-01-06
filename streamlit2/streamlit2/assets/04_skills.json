@@ -1,0 +1,4 @@
+{
+	"MAX_SKILLS_COLUMNS": 5,
+	"SKILLS": ["python", "langchain", "node.js", "tensorflow"]
+}
